@@ -4,9 +4,12 @@
 
 With Arc Layout explore new styles and approaches on material design
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/iqkQGAc2EFNdScAzpwZr1Sdy/florent37/ArcLayout'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/iqkQGAc2EFNdScAzpwZr1Sdy/florent37/ArcLayout.svg' />
+
+<a href="https://goo.gl/WXW8Dc">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
+
+
 
 [![screen](https://raw.githubusercontent.com/florent37/ArcLayout/master/media/video1.gif)](https://www.github.com/florent37/ArcLayout)
 
@@ -108,7 +111,7 @@ Using [https://github.com/flavioarfaria/KenBurnsView](https://github.com/flavioa
 
 In your module [![Download](https://api.bintray.com/packages/florent37/maven/ArcLayout/images/download.svg)](https://bintray.com/florent37/maven/ArcLayout/_latestVersion)
 ```groovy
-compile 'com.github.florent37:arclayout:1.0.2'
+compile 'com.github.florent37:arclayout:1.0.3'
 ```
 
 # Inspirations
@@ -126,11 +129,15 @@ I'd appreciate any feedback.
 
 # Credits
 
-Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentchampigny.com/)
+Author: Florent Champigny
 
-<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+Fiches Plateau Moto : [https://www.fiches-plateau-moto.fr/](https://www.fiches-plateau-moto.fr/)
+
+<a href="https://goo.gl/WXW8Dc">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
+
+
 <a href="https://plus.google.com/+florentchampigny">
   <img alt="Follow me on Google+"
        src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/gplus.png" />
